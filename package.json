@@ -1,6 +1,6 @@
 {
-  "name": "TMCassesment",
-  "version": "0.0.1",
+  "name": "react-native-chat-component-simplify360assignment",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
@@ -52,5 +52,21 @@
   },
   "engines": {
     "node": ">=16"
-  }
+  },
+  "description": "This is an assignment by RahulSaini for chat component by simplify360 company. Time Taken to build: 3-4 hours",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reachrahul/chatsimplify360.git"
+  },
+  "keywords": [
+    "React",
+    "Native"
+  ],
+  "author": "Rahul Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reachrahul/chatsimplify360/issues"
+  },
+  "homepage": "https://github.com/reachrahul/chatsimplify360#readme"
 }

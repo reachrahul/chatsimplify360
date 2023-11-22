@@ -11,6 +11,7 @@ Features implmented:
 
 Used a custom color picker when tapping on Header Title the color picker will show, it is used to set background of the header.
 
-Also implemented functionality to scroll to latest message in case of screen is full. 
+Also implemented functionality to scroll to latest message in case of screen is full.
 Used a flatlist implementation.
- 
+
+react-native-chat-component-simplify360assignment
