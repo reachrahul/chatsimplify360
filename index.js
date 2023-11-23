@@ -105,12 +105,13 @@ import { messages } from './src/constants/list';
            {headerTitle}
           </Text>
         </TouchableOpacity>
-        <TouchableOpacity
+        {showchat ?  <TouchableOpacity
           onPress={() => {
            showchat(false)
           }}>
           <Image style={{width:20,height:20}}source={require('./src/assets/icons/cross.png')} />
-        </TouchableOpacity>
+        </TouchableOpacity>:null}
+      
       </View>
     
       <TextInput
