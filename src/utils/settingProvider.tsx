@@ -1,9 +1,6 @@
 import React from 'react';
 import FlashMessage from 'react-native-flash-message';
 import {fonts} from '../theme';
-import {I18nManager} from 'react-native';
-
-I18nManager.allowRTL(false);
 
 export function SettingProvider({children}: {children: any}) {
   return (
