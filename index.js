@@ -109,7 +109,7 @@ import { messages } from './src/constants/list';
           onPress={() => {
            showchat(false)
           }}>
-          <Image style={{width:20,height:20}}source={require('node_modules/react-native-chat-component-simplify360assignment/src/assets/icons/cross.png')} />
+          <Image style={{width:20,height:20}}source={require('./src/assets/icons/cross.png')} />
         </TouchableOpacity>
       </View>
     
